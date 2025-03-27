@@ -1,14 +1,23 @@
 # Olá, eu sou o Kaiki Nattan! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaikinattandossantos&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaikinattandossantos&theme=dracula" alt="Sequência de commits" />
-</div>
+  <div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kaikinattandossantos&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kaikinattandossantos&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaikinattandossantos&show_icons=true" />
+</picture>
+  </div>
+  
+  ## 📊 Linguagens mais utilizadas
 
-## 📊 Linguagens mais utilizadas
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikinattandossantos&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikinattandossantos&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas
