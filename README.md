@@ -14,11 +14,6 @@
 </picture>
   </div>
   
-  ## 📊 Linguagens mais utilizadas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikinattandossantos&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</div>
 
 ## 🛠️ Tecnologias e Ferramentas
 
