@@ -1,25 +1,11 @@
 # Olá, eu sou o Kaiki Nattan! 👋
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kaikinattandossantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=kaikinattandossantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikinattandossantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikinattandossantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-  
-
-## 🛠️ Tecnologias e Ferramentas
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -31,7 +17,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
-
 
 ## 📫 Como me encontrar
 
