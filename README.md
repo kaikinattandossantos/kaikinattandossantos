@@ -1,11 +1,6 @@
 # Olá, eu sou o Kaiki Nattan! 👋
 
-<div align="center">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=kaikinattandossantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikinattandossantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
 
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
